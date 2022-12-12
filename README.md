@@ -53,6 +53,19 @@ conda install pandas
 
 ## Usage
 
+> Application summary<br/>
+
+Crypto Arbitrage application takes you through the three stages of data analysis:
+
+- data collection
+- preparation of data
+- analysing the data
+  <br/>
+
+At the end of the analysis the arbitrage opportunities for selected dates are analysed and quantified. Finally a report summarizing the findings is produced. <br/>
+
+> Getting started<br/>
+
 To use Crypto Arbitrage application first clone the repository to your PC. The repository comes with **crypto_arbitrage.ipynb** application, as well as a sample of data files covering BTC price data on Coinbase and Bitstamp observed during Q1 2018. <br/> First save your data files in the **Resources/** directory and adjust file names within **crypto_arbitrage.ipynb**:<br/>
 
 ![files](images/input_files.PNG)
