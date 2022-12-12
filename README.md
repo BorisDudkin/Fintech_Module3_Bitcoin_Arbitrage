@@ -22,6 +22,8 @@
 
 `Python 3.9`
 
+`Jupyter lab`
+
 _Prerequisites_
 
 pandas is a Python package that provides fast, flexible, and expressive data structures designed to make working with large sets of data easy and intuitive
@@ -33,7 +35,11 @@ pandas is a Python package that provides fast, flexible, and expressive data str
 
 ## Installation Guide
 
-Open your terminal (PowerShell, Command Prompt App. or Git Bash).
+Jupyter lab is a preferred software to work with Crypto Arbitrage application.<br/> Jupyter lab is a part of the **[anaconda](https://www.anaconda.com/)** distribution package and therefore it is recommended to download **anaconda** first.<br/> Once dowloaded, run the following command in your terminal to lauch Jupyter lab:
+
+```python
+jupyter lab
+```
 
 Before using the application first install the following dependencies by using your terminal:
 
@@ -66,19 +72,16 @@ At the end of the analysis the arbitrage opportunities for selected dates are an
 
 > Getting started<br/>
 
-To use Crypto Arbitrage application first clone the repository to your PC. The repository comes with **crypto_arbitrage.ipynb** application, as well as a sample of data files covering BTC price data on Coinbase and Bitstamp observed during Q1 2018. <br/> First save your data files in the **Resources/** directory and adjust file names within **crypto_arbitrage.ipynb**:<br/>
+- To use Crypto Arbitrage application first clone the repository to your PC. The repository comes with **crypto_arbitrage.ipynb** application, as well as `static_data.py` for analysis customization and a sample of data files covering BTC price data on Coinbase and Bitstamp observed during Q1 2018. <br/>
+- Open `Jupyter lab` as per the instructions in the [Installation Guide](#installation-guide) to run the application.<br/>
+- Next, save your data files in the **Resources/** directory.<br/>
+- Open `static_data.py` in your text editor and:
+  - Provide file names for your analysis
+  - Additional customization options include the selection of the Price Column and specific dates for analyzes.
 
-![files](images/input_files.PNG)
-<br/>
+![prices](images/static_data.PNG)
 
-Additional customization options include the selection of the Price Column and specific dates for analyzes. Open the tool and scroll down to the relevant code lines and adjust according to your requirements:<br/>
-
-![prices](images/price_select.PNG)
-
- <br/>
-
-![prices](images/date_select.PNG)
-<br/> At the very end of the application you can find a report drawn based on the data sample and the above selections. It can serve as a sample for your analysis and final report .
+<br/> At the very end of the application you can find a report drawn based on the data set and the above selections. It can serve as a sample for your analysis and final report .
 
 ---
 
