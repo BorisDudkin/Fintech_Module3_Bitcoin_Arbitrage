@@ -1,4 +1,7 @@
-* 	 (HEAD -> main, origin/main, origin/HEAD) Report formated in crypto_arbitrage and Usage updated in README.md
+* 	 (HEAD -> main) raw cells changed to Markdown in crypot_arbitrage
+* 	 (origin/main, origin/HEAD) README.md Usage updated with the App summery
+* 	 commit history uploaded in Git Tree
+* 	 Report formated in crypto_arbitrage and Usage updated in README.md
 * 	 Final report updated in crypto_arbitrage
 * 	 report completed in crypto_arbitrage
 * 	 analysis completed. Report initialized in crypto_arbitrage
