@@ -1,5 +1,7 @@
-* 	 (HEAD -> main) raw cells changed to Markdown in crypot_arbitrage
-* 	 (origin/main, origin/HEAD) README.md Usage updated with the App summery
+* 	 (HEAD -> main) static_data.py added, crypto_arbitrage and README adjusted for static_data
+* 	 (origin/main, origin/HEAD) commit tree updated
+* 	 raw cells changed to Markdown in crypot_arbitrage
+* 	 README.md Usage updated with the App summery
 * 	 commit history uploaded in Git Tree
 * 	 Report formated in crypto_arbitrage and Usage updated in README.md
 * 	 Final report updated in crypto_arbitrage
