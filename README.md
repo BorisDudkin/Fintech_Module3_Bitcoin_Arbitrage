@@ -1,6 +1,6 @@
 # Bitcoin Arbitrage
 
-### As Bitcoin trades on different exchanges across the globe, there might be instances of the simultaneous price dislocations in those exchanges. <br /> Bitcoin Arbitrage application enables its users to determine potential arbitrage opportunities between two exchanges by collecting, clensing and analysing historical pricing data from those exchanges.
+### As many assets trade on different exchanges across the globe, there might be instances of the simultaneous price dislocations in those exchanges. <br /> Crypto Arbitrage application provides a comprehencive framework for the three phases of financial analysis to determine if any arbitrage exists for a selected asset.
 
 ---
 
@@ -53,12 +53,19 @@ conda install pandas
 
 ## Usage
 
-To use the application launch it from your shall/terminal/Git Bash. Once launched, a number of questions relating to the loan application will appear on the screen. Your answers to those questions will serve as filters the tool will apply to the list of loan providers.
-NOTE: the path requested by the prompt messages is to the data file containg the list of loan providers. <br />
+To use Crypto Arbitrage application first clone the repository to your PC. The repository comes with **crypto_arbitrage.ipynb** application, as well as a sample of data files covering BTC price data on Coinbase and Bitstamp observed during Q1 2018. <br/> First save your data files in the **Resources/** directory and adjust file names within **crypto_arbitrage.ipynb**:<br/>
 
-![terminal](images/Terminal.PNG)
+![files](images/input_files.PNG)
+<br/>
 
-The tool will output to the screen debt-to-income ratio and loan-to-value ratio of the loan and a number of qualified providers found by allplying the filters, as well as the filtered list of qualifying providers saved in the same directory as the tool.
+Additional customization options include the selection of the Price Column and specific dates for analyzes. Open the tool and scroll down to the relevant code lines and adjust according to your requirements:<br/>
+
+![prices](images/price_select.PNG)
+
+ <br/>
+
+![prices](images/date_select.PNG)
+<br/> At the very end of the application you can find a report drawn based on the data sample and the above selections. It can serve as a sample for your analysis and final report .
 
 ---
 
