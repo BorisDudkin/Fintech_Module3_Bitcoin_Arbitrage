@@ -1,0 +1,12 @@
+* 	 (HEAD -> main, origin/main, origin/HEAD) Report formated in crypto_arbitrage and Usage updated in README.md
+* 	 Final report updated in crypto_arbitrage
+* 	 report completed in crypto_arbitrage
+* 	 analysis completed. Report initialized in crypto_arbitrage
+* 	 dynamic column selection and inout file selection included in crypto_arbitrage
+* 	 dynamic date selection added in crypto_arbitrage
+* 	 arbitrage profit calculations added to crypto_arbitrage
+* 	 Summary statistics and visualization added to crypto_arbitrage
+* 	 Data preparation ection of the crypto_arbitrage app is completed
+* 	 README description and Technology updated, Collect the Data part completed in notebook
+* 	 Initial upload to GitHub
+* 	 Initial commit
